@@ -356,7 +356,7 @@ This LLM will not merely document the RadML framework but will actively accelera
 
 ---
 
-*Document Version: 1.0*  
+*Document Version: 0.1*  
 *Last Updated: July 2025*  
 *Status: Strategic Framework Document*
 *Company: Space Labs AI*
