@@ -9,4 +9,4 @@ This LLM is designed to be an educational tool for RadML.
 ## Table of Contents
 
 - [Why Use an LLM for Radiation-Tolerant Computing?](FAQ/RadiationTolerantLLM.md)
-- [Ollama](FAQ/DomainSpecificLargeLanguageModel.md)
+- [RadLLM](FAQ/DomainSpecificLargeLanguageModel.md)
